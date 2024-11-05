@@ -1,0 +1,30 @@
+.back {
+  padding: 28px 0px 28px 64px;
+  background-color: #f7f7f7;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  text-decoration: none;
+}
+
+.link {
+  margin-left: 450px;
+  display: flex;
+  gap: 32px;
+}
+
+.pages {
+  font-weight: 500;
+  font-size: 16px;
+  color: #101828;
+}
+
+.pages:hover {
+  cursor: pointer;
+  color: #d84343;
+}
